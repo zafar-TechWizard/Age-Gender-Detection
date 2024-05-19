@@ -2,6 +2,11 @@
 
 This project implements a basic Convolutional Neural Network (CNN) model for age detection using the IMDB-WIKI dataset. The model predicts the age from facial images. The project also includes a graphical user interface (GUI) for users to upload images and get the predicted age.
 
+## Demo Video
+
+[Watch the demo video](./demo/demo_video.mp4)
+
+
 ## Dataset
 
 The dataset used for this project is the IMDB-WIKI dataset, which consists of the following files:

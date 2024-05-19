@@ -6,7 +6,7 @@ from PIL import Image, ImageTk
 from tensorflow.keras.models import load_model
 
 # Load the trained model
-loaded_model = load_model("./Task 1/model_L80_M6_mape24.h5")
+loaded_model = load_model("./model/model_L80_M6_mape24.h5")
 
 # Function to extract facial region from the image using a pre-trained face detection model
 def extract_facial_region(image):

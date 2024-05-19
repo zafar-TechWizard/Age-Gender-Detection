@@ -9,6 +9,8 @@ The dataset used for this project is the IMDB-WIKI dataset, which consists of th
 - `gender.npy`: Contains the gender labels.
 - `imdb-wiki-image-data.npy`: Contains the image data in NumPy array format.
 
+To download Dataset please refer to `download_dataset.txt`
+
 Additionally, a pre-trained face detection model (`haarcascade_frontalface_default.xml`) is used to extract facial regions from the input images during prediction.
 
 ## Project Structure
